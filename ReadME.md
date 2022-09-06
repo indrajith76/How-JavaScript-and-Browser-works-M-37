@@ -13,6 +13,7 @@
 ## | 5 | What is Http?
 Link -  https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview 
 >Answer : The Hypertext Transfer Protocol is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems.
+![image](images/http.JPG)
 ## | 6 | HTTP Layer :
 Video Link : https://www.youtube.com/watch?v=fiMswfo45DQ
 ![image](images/httpLayer.JPG)
@@ -55,4 +56,8 @@ Javascript is a single-threaded and synchronous language.
 ![image](images/promise.JPG)
 ## | 22 | Promise Structure :
 ![image](images/promiseStructure.JPG)
-
+## | 23 | Fetch API :
+![image](images/fetchApi.JPG)
+### How works:
+![image](images/fetchApi1.JPG)
+![image](images/fetchApi2.JPG)

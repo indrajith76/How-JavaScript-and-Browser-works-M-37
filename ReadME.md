@@ -61,3 +61,13 @@ Javascript is a single-threaded and synchronous language.
 ### How works:
 ![image](images/fetchApi1.JPG)
 ![image](images/fetchApi2.JPG)
+# 🎯 JS Time Events :
+## | 24 | setTimeOut() and clearTimeout() :
+![image](images/setTimeOut.JPG)
+## | 25 | setInterval() and clearInterval() :
+![image](images/setInterval-and-clearInterval.JPG)
+## | 26 | setTimeout() vs setInterval() :
+![image](images/setTimeOutVSsetInterval.JPG)
+![image](images/setTimeOutVSsetInterval1.JPG)
+## | 27 | Prefix vs Postfix (++i vs i++) :
+![image](images/i%2B%2Bvs%2B%2Bi.png)

@@ -71,3 +71,14 @@ Javascript is a single-threaded and synchronous language.
 ![image](images/setTimeOutVSsetInterval1.JPG)
 ## | 27 | Prefix vs Postfix (++i vs i++) :
 ![image](images/i%2B%2Bvs%2B%2Bi.png)
+# 🎯 JavaScript event loop and concurrency :
+## | 29 | Call Stack :
+![image](images/callStack.JPG)
+## | 30 | Event Queue :
+![image](images/EventQueue.JPG)
+## | 31 | event loop:
+### Details:
+Video-link-1: https://www.youtube.com/watch?v=8aGhZQkoFbQ <br>
+Video-link-2: https://www.youtube.com/watch?v=juHkuCtMGtQ&t=339s <br>
+Documentation : https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+![image](images/eventLoopExecution.JPG)

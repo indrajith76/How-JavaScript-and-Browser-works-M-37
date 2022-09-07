@@ -20,9 +20,15 @@ Video Link : https://www.youtube.com/watch?v=fiMswfo45DQ
 ## | 7 | What is Https?
 >Answer : Hypertext Transfer Protocol Secure is an extension of the Hypertext Transfer Protocol. It is used for secure communication over a computer network, and is widely used on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security or, formerly, Secure Sockets Layer.
 ## | 8 | HTTP vs HTTPS :
-![image](images/httpVshttps.JPG)
+![image](images/httpVshttps2.JPG)
 ![image](images/httpVshttps1.JPG)
-## | 9 | What is SSL Certificate ?
+![image](images/httpVshttps.JPG)
+## | 9 | What is SSL ?
+>Secure Sockets Layer (SSL) is a security protocol that provides privacy, authentication, and integrity to Internet communications. SSL eventually evolved into Transport Layer Security (TLS).<br>
+>It was first developed by Netscape in 1995 for the purpose of ensuring privacy, authentication, and data integrity in Internet communications. SSL is the predecessor to the modern TLS encryption used today.
+
+A website that implements SSL/TLS h
+## | 9.1 | What is SSL Certificate ?
 Link-1 : https://www.tutorialsteacher.com/https/what-is-ssl-certificate <br>
 Link-2 : https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/ 
 ## | 10 | DOM Tree :
@@ -32,6 +38,8 @@ Link-2 : https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/
 ## | 12 | Rander Tree :
 ![image](images/RanderTree.JPG)
 Paint Means Output.
+## | 12.1| How JavaScript code runs?
+![image](images/RanderTree1.JPG)
 ## | 13 | Paint :
 ![image](images/Paint.JPG)
 ## | 14 | How Browser Works Overall?
@@ -51,6 +59,7 @@ Javascript is a single-threaded and synchronous language.
 ## | 19 | What do you mean by Asynchronous ?
 ![image](images/async.JPG)
 ## | 20 | Synchronous VS Asynchronous :
+Link - https://www.youtube.com/watch?v=IUBd76UQb34&t=9s
 ![image](images/syncVSasync.JPG)
 ## | 21 | Promise :
 ![image](images/promise.JPG)
@@ -82,3 +91,19 @@ Video-link-1: https://www.youtube.com/watch?v=8aGhZQkoFbQ <br>
 Video-link-2: https://www.youtube.com/watch?v=juHkuCtMGtQ&t=339s <br>
 Documentation : https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
 ![image](images/eventLoopExecution.JPG)
+
+## | 32 | Regular Expressions :
+https://www.youtube.com/watch?v=hH5-XwMLrP0
+# Interview questions :
+><ul>
+>    <li>How does browser runs JavaScript ?</li>
+>    <li>How does Browser works ?</li>
+>    <li>HTTP vs HTTPS?</li>
+>    <li>Tell me something about JS engine V8 internal mechanism.</li>
+>    <li>What is rerender in Browser ?</li>
+>    <li>What is event loop in JavaScript ?</li>
+>    <li>If javascript is single threaded, how does it handle asynchronous call ?</li>
+>    <li>What is SSL ?</li>
+>    <li>Differences between setTimeOut and SetInterval ?</li>
+>    <li>What is Regular Expression ?</li>
+></ul>
